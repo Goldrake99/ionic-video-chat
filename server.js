@@ -13,7 +13,7 @@
 
 
 // set this here or as an environment variable
-var JWT_SECRET = process.env.JWT_SECRET || 'change-me-please!';
+var JWT_SECRET = process.env.JWT_SECRET || 'goldy99';
 
 // this this to your s3 bucket name
 var S3_BUCKET = process.env.S3_BUCKET || 'ionic-video-chat-v2-images';
